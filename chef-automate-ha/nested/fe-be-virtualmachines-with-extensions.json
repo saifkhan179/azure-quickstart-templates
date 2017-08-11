@@ -51,9 +51,7 @@
                     "osDisk": {
                         "createOption": "FromImage",
                         "caching":"ReadWrite",
-                        "managedDisk":{
-                            "storageAccountType":"Standard_LRS"
-                        }
+                       
                     },
                     "dataDisks": [
                         {
@@ -143,9 +141,7 @@
                     "osDisk": {
                         "createOption": "FromImage",
                         "caching":"ReadWrite",
-                        "managedDisk":{
-                            "storageAccountType":"Standard_LRS"
-                        }
+                        
                     },
                     "dataDisks": [
                         {
@@ -236,9 +232,7 @@
                     "osDisk": {
                         "createOption": "FromImage",
                         "caching":"ReadWrite",
-                        "managedDisk":{
-                            "storageAccountType":"Standard_LRS"
-                        }
+                        
                     },
                     "dataDisks": [
                         {
@@ -329,9 +323,7 @@
                     "osDisk": {
                         "createOption": "FromImage",
                         "caching":"ReadWrite",
-                        "managedDisk":{
-                            "storageAccountType":"Standard_LRS"
-                        }
+                        
                     },
                     "dataDisks": [
                         {
@@ -424,9 +416,7 @@
                     "osDisk": {
                         "createOption": "FromImage",
                         "caching":"ReadWrite",
-                        "managedDisk":{
-                            "storageAccountType":"Standard_LRS"
-                        }
+                        
                     },
                     "dataDisks": [
                         {
@@ -517,9 +507,7 @@
                     "osDisk": {
                         "createOption": "FromImage",
                         "caching":"ReadWrite",
-                        "managedDisk":{
-                            "storageAccountType":"Standard_LRS"
-                        }
+                        
                     },
                     "dataDisks": [
                         {
@@ -610,9 +598,7 @@
                     "osDisk": {
                         "createOption": "FromImage",
                         "caching":"ReadWrite",
-                        "managedDisk":{
-                            "storageAccountType":"Standard_LRS"
-                        }
+                        
                     },
                     "dataDisks": [
                         {
